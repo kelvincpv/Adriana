@@ -1,9 +1,7 @@
-# E1 - POO (Kelvin)
+# Exercícios LP1
 Entrega com: teste de mesa (planilha e csv com fórmulas), classes UML (música, Vik Muniz, doodle, vídeo) e código Java.
 
-## 1) Teste de Mesa
-Planilha com fórmulas: `1-formula-teste-de-mesa/teste_de_mesa_10_cenarios.xlsx`  
-CSV: `1-formula-teste-de-mesa/teste_de_mesa_10_cenarios.csv`  
+## 1) Teste de Mesa  
 ![Teste de Mesa](https://res.cloudinary.com/drewfcuv6/image/upload/v1757450077/Captura_de_tela_2025-09-09_172448_xm1woe.png)
 
 ## 2) Música – Garota de Ipanema
